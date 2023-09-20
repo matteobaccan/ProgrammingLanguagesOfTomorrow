@@ -15,3 +15,5 @@ The data used for this presentation arrives from
 - StackOverflow
 - RemoteOK
 - TIOBE
+
+[![Genera PDF](https://github.com/matteobaccan/ProgrammingLanguagesOfTomorrow/actions/workflows/generatepdf.yml/badge.svg)](https://github.com/matteobaccan/ProgrammingLanguagesOfTomorrow/actions/workflows/generatepdf.yml)
