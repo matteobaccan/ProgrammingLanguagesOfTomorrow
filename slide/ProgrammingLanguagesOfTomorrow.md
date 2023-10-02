@@ -164,6 +164,30 @@ What web technology should we learn according to Stack Overflow?
 
 ---
 
+## Italian developer salary
+
+![width:800px center](img/ral-ita.png)
+
+<https://it.talent.com/it/salary?job=developer>
+
+---
+
+## German developer salary
+
+![width:800px center](img/ral-de.png)
+
+<https://de.talent.com/it/salary?job=developer>
+
+---
+
+## Swiss Developer Salary
+
+![width:750px center](img/ral-ch.png)
+
+<https://ch.talent.com/it/salary?job=developer>
+
+---
+
 ## Now, what should I learn in 2024?
 
 Any language: the market is so big that the opportunities are many.
