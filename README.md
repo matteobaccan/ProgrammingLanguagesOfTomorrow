@@ -16,6 +16,7 @@ The data used for this presentation arrives from
 - RemoteOK
 - TIOBE
 - PYPL PopularitY of Programming Language
+- Talent.com
 
 __[Download the slides](https://raw.githubusercontent.com/matteobaccan/ProgrammingLanguagesOfTomorrow/main/slide/ProgrammingLanguagesOfTomorrow.pdf)__
 
